@@ -36,16 +36,29 @@ A preprint is available:
 It has also been used in *Fowler, Joanna C., et al. "Selection of oncogenic mutant clones in normal human skin varies with body site." Cancer discovery 11.2 (2021): 340-361.*  
 
 ### Colom_lesions
+
+<img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/Pyabc_DEN_lesions.png" alt="Colom lesion model" width="400"/>
+
+
 Code modelling the elimination of micro-tumours by highly fit mutant clones in the surrounding tissue for  
 *Colom, B., et al. "Mutant clones in normal epithelium outcompete and eliminate emerging tumours." Nature 598.7881 (2021): 510-514.*
 
 ### Fowler_et_al_scripts 
+
+<img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/SMS_imgs-01.png" alt="Fowler et al plots" width="700"/>
+
 Scripts to accompany *Fowler, Joanna C., et al. "Selection of oncogenic mutant clones in normal human skin varies with body site." Cancer discovery 11.2 (2021): 340-361.*  
 These scripts make use of the code from the clone-competition-simulation and darwinian_shift repositories. 
 
 ### Hall_et_al_2020
+
+<img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/ds_preprint_imgs-01.png" alt="Darwinian shift preprint plots" width="700"/>
+
 Notebooks to generate the figures for the preprint *Hall, Michael WJ, et al. "Investigating structure function relationships in the NOTCH family through large-scale somatic DNA sequencing studies." bioRxiv (2020).*
 
 ### hall_et_al_2019
+
+<img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/RSI_imgs-01.png" alt="RSI paper plots" width="700"/>
+
 Code to recreate the figures for *Hall, Michael WJ, Philip H. Jones, and Benjamin A. Hall. "Relating evolutionary selection and mutant clonal dynamics in normal epithelia." Journal of the Royal Society Interface 16.156 (2019): 20190230.*
 
