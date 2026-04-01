@@ -7,7 +7,7 @@ See also:
 
 > https://zenodo.org/record/3648706#.Yk7nyC8w3m0 - Netlogo and Java (HAL) models to accompany *Colom, Bartomeu, et al. "Spatial competition shapes the dynamic mutational landscape of normal esophageal epithelium." Nature genetics 52.6 (2020): 604-614.* 
 
-### clone-competition-simulation
+### [clone-competition-simulation](https://github.com/michaelhall28/clone-competition-simulation)
 
 <img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/clone_comp_imgs-01.png" alt="Competition plots" width="800"/>
 
@@ -24,7 +24,7 @@ The code has been used in:
 
 > (even older version of this code)  *Murai, Kasumi, et al. "Epidermal tissue adapts to restrain progenitors carrying clonal p53 mutations." Cell stem cell 23.5 (2018): 687-699.*   
 
-### darwinian_shift
+### [darwinian_shift](https://github.com/michaelhall28/darwinian_shift)
 
 <img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/DS_imgs-01.png" alt="Darwinian_shift plots" width="700"/>
 
@@ -35,7 +35,7 @@ A preprint is available:
 
 It has also been used in *Fowler, Joanna C., et al. "Selection of oncogenic mutant clones in normal human skin varies with body site." Cancer discovery 11.2 (2021): 340-361.*  
 
-### Colom_lesions
+### [Colom_lesions](https://github.com/michaelhall28/Colom_lesions)
 
 <img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/Pyabc_DEN_lesions.png" alt="Colom lesion model" width="400"/>
 
@@ -43,20 +43,20 @@ It has also been used in *Fowler, Joanna C., et al. "Selection of oncogenic muta
 Code modelling the elimination of micro-tumours by highly fit mutant clones in the surrounding tissue for  
 *Colom, B., et al. "Mutant clones in normal epithelium outcompete and eliminate emerging tumours." Nature 598.7881 (2021): 510-514.*
 
-### Fowler_et_al_scripts 
+### [Fowler_et_al_scripts](https://github.com/michaelhall28/Fowler_et_al_scripts)
 
 <img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/SMS_imgs-01.png" alt="Fowler et al plots" width="700"/>
 
 Scripts to accompany *Fowler, Joanna C., et al. "Selection of oncogenic mutant clones in normal human skin varies with body site." Cancer discovery 11.2 (2021): 340-361.*  
 These scripts make use of the code from the clone-competition-simulation and darwinian_shift repositories. 
 
-### Hall_et_al_2020
+### [Hall_et_al_2020](https://github.com/michaelhall28/Hall_et_al_2020)
 
 <img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/ds_preprint_imgs-01.png" alt="Darwinian shift preprint plots" width="700"/>
 
 Notebooks to generate the figures for the preprint *Hall, Michael WJ, et al. "Investigating structure function relationships in the NOTCH family through large-scale somatic DNA sequencing studies." bioRxiv (2020).*
 
-### hall_et_al_2019
+### [hall_et_al_2019](https://github.com/michaelhall28/hall_et_al_2019)
 
 <img src="https://github.com/michaelhall28/michaelhall28/blob/main/img/RSI_imgs-01.png" alt="RSI paper plots" width="700"/>
 
